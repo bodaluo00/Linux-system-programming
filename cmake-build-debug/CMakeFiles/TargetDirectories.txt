@@ -1,0 +1,3 @@
+/Users/giovanni/Linux-system-programming/cmake-build-debug/CMakeFiles/Linux_system_programming.dir
+/Users/giovanni/Linux-system-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giovanni/Linux-system-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
